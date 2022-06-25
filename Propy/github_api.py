@@ -1,4 +1,3 @@
-from requests import request
 import requests
 
 def buscar_avatar(usuario):
